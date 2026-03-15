@@ -27,7 +27,7 @@ i don't have all the answers. but i have 3,000+ builders who trust me, strong op
 
 if you're reading this you're probably a builder, a founder, or a dreamer just like me. either way — welcome, grab a seat.
 
----e
+---
 
 ### what i'm building
 
