@@ -95,8 +95,8 @@ naval says "retirement is when you stop sacrificing today for an imaginary tomor
 
 - 🇧🇷 from a small town in Brazil. grew up watching the world from the outside, wondering why geography got to decide so much.
 - ☕ coffee please
-- 🎵 builds better with music. the playlist is always either lo-fi or something embarrassingly dramatic.
-- 🏃 running is therapy
+- 🎵 builds better with music. the playlist is MPB for chill vibes or lo-fi for deep work
+- 🏃 running and time in nature are therapy
 - 🌎 traveling and meeting people allover: talent is distributed, opportunity isnt (opss, naval once again)
 
 ---
