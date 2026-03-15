@@ -1,71 +1,93 @@
-<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pedro%20Cecilio&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Builder.%20Connector.%20Optimist.&descAlignY=55&descSize=16" width="100%"/>
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="220" fill="#050505"/>
+  <!-- Subtle grid -->
+  <line x1="0" y1="110" x2="800" y2="110" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+  <line x1="400" y1="0" x2="400" y2="220" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+  <!-- Orange accent mark -->
+  <rect x="276" y="72" width="3" height="76" rx="1.5" fill="#FF6B00"/>
+  <!-- Name -->
+  <text x="293" y="118" font-family="Inter,-apple-system,BlinkMacSystemFont,sans-serif" font-size="46" font-weight="700" fill="#FAFAFA" letter-spacing="-1.5">Pedro Cecilio</text>
+  <!-- Tagline -->
+  <text x="294" y="144" font-family="Inter,-apple-system,BlinkMacSystemFont,sans-serif" font-size="13" font-weight="400" fill="#a1a1a6" letter-spacing="0.4">Builder · São Paulo ↔ San Francisco</text>
+  <!-- Bottom border -->
+  <line x1="0" y1="219" x2="800" y2="219" stroke="#FF6B00" stroke-width="1" opacity="0.4"/>
+</svg>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+things+that+shouldn't+exist+yet.;Connecting+builders+to+the+problems+they+deserve.;São+Paulo+%E2%86%94+San+Francisco.;Betting+on+underestimated+people.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=13&pause=1200&color=FF6B00&center=true&vCenter=true&width=600&lines=Building+things+that+shouldn't+exist+yet.;Helping+great+builders+get+real+chances.;Geography+should+not+decide+your+future.;Ship+it.)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrocecilio)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yopedrocecilio)
-[![UNDV](https://img.shields.io/badge/UNDV.ai-6E40C9?style=for-the-badge&logo=lightning&logoColor=white)](https://undv.ai)
-[![BeGlobal](https://img.shields.io/badge/BeGlobal.work-0D9488?style=for-the-badge&logo=globe&logoColor=white)](https://beglobal.work)
+![](https://img.shields.io/badge/UNDV-FF6B00?style=flat-square&labelColor=0a0a0a&color=0a0a0a&logoColor=FF6B00)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=FF6B00)](https://linkedin.com/in/pedrocecilio)
+[![X](https://img.shields.io/badge/X-0a0a0a?style=flat-square&logo=x&logoColor=FAFAFA)](https://x.com/yopedrocecilio)
+[![undv.ai](https://img.shields.io/badge/undv.ai-0a0a0a?style=flat-square&logoColor=FF6B00)](https://undv.ai)
+[![beglobal.work](https://img.shields.io/badge/beglobal.work-0a0a0a?style=flat-square&logoColor=FF6B00)](https://beglobal.work)
 
 </div>
 
 ---
 
-<!-- About -->
-## 👋 Hey, I'm Pedro
+## Hey, I'm Pedro
 
-I grew up in Brazil surrounded by people who could figure things out — fast learners, creative builders, people who'd work through a problem until it cracked.
+I grew up in Brazil around people who could build anything.
 
 Most of them never got the shot they deserved.
 
-Wrong passport. Wrong city. Wrong school name at the top of the CV.
+Wrong passport.  
+Wrong city.  
+Wrong school name.
 
-That bothered me then. It still does. So most of what I build comes back to the same question:
+The system rewarded where you started.  
+Not what you could do.
 
-> *What would it look like if the best people could work on the most interesting problems — regardless of where they were born?*
+That never felt right.
 
-I don't have a clean answer yet. But I'm building toward one.
+So I kept asking the same question:
+
+*What if the best builders could work on the best problems — no matter where they were born?*
 
 ---
 
-<!-- Projects -->
-## 🛠️ What I'm Building
+## What I'm building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [UNDV](https://undv.ai)
+**[UNDV](https://undv.ai)**
 
-A place for people building with AI — agents, small tools, weird experiments, interfaces that don't fit anywhere yet.
+For people building with AI.
 
-The idea is simple: **if you shipped it, you should be able to point to it.**
+Agents. Small tools. Weird experiments.  
+Things that don't fit anywhere yet.
 
-No portfolios. No inflated job titles.  
-Just links to real things you made.
+If you shipped it, you should be able to point to it.
 
-Reputation should come from what you've built — not where you worked.
+```
+Work > resumes
+Builders > credentials
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 🌎 [BeGlobal](https://beglobal.work)
+**[BeGlobal](https://beglobal.work)**
 
-There are world-class builders in Brazil, Turkey, South Africa, Eastern Europe, and Latin America.
+I kept seeing great builders in Brazil, Turkey,  
+South Africa, Eastern Europe.
 
-There are startups that can't find people who can actually own things end-to-end.
+Far from where opportunity sits.
 
-BeGlobal connects those two sides.
+I started BeGlobal to help them get real chances.
 
-Builders who want real leverage.  
-Startups that need people who execute.
+```
+Great builders exist everywhere.
+Opportunity doesn't.
+```
 
 </td>
 </tr>
@@ -73,69 +95,62 @@ Startups that need people who execute.
 
 ---
 
-<!-- Beliefs -->
-## 🧭 Things I Actually Believe
+## Things I believe
 
 ```
-📍 Geography still determines too much about your life.
-🔍 The best builders in the world are mostly still invisible.
-📦 What you've shipped matters more than where you worked.
-🎯 Small, focused teams punch far above their weight.
-📈 Curiosity compounds. Consistency compounds. Both together are dangerous.
-🌍 The next decade belongs to underestimated people in underestimated places.
+Geography still decides too much.
+The best builders are mostly still invisible.
+What you shipped matters more than where you worked.
+Small teams can do more than most people expect.
+Curiosity compounds.
 ```
 
 ---
 
-<!-- How I work -->
-## ⚙️ How I Work
+## How I work
 
 ```python
 while alive:
     build()
     stay_close_to_reality()
-    work_with_people_who_care_about_details()
-    ignore_status_games()
-    tell_the_truth(even_when="expensive")
-    think_in_years_not_weeks()
+    care_about_the_details()
+    tell_the_truth()
+    think_in_years()
 ```
 
 ---
 
-<!-- Future -->
-## 🔭 How I See Things Going
+## Where I think things are going
 
-AI makes building cheaper. Execution starts to matter more than credentials.  
-Small teams can do what used to take departments.  
-Geography gets weaker as a filter. Taste and curiosity get stronger.
+AI makes building cheaper.  
+Small teams can do what used to take big ones.  
+Geography gets weaker as a filter.
 
-The credential game isn't dead — but it's getting slower,  
-and the proof-of-work game is getting faster.
+The future will reward people who build real things.
 
-I'm betting on that shift.  
-Everything I build assumes it's already happening.
+I'm betting on that.  
+Everything I make assumes it's already happening.
 
 ---
 
-<!-- Stats — optional, can remove if not desired -->
-## 📊 Activity
+## Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yopedrocecilio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopedrocecilio&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=yopedrocecilio&show_icons=true&theme=dark&bg_color=050505&title_color=FF6B00&icon_color=FF6B00&text_color=a1a1a6&border_color=1a1a1e&hide_border=false&count_private=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopedrocecilio&layout=compact&theme=dark&bg_color=050505&title_color=FF6B00&text_color=a1a1a6&border_color=1a1a1e" />
 
 </div>
 
 ---
 
-<!-- Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-*The internet gave us leverage. What we do with it is the real question.*
-
-**[undv.ai](https://undv.ai)** · **[beglobal.work](https://beglobal.work)** · **[linkedin](https://linkedin.com/in/pedrocecilio)** · **[x](https://x.com/yopedrocecilio)**
+<svg width="800" height="48" viewBox="0 0 800 48" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="48" fill="#050505"/>
+  <line x1="0" y1="0" x2="800" y2="0" stroke="#FF6B00" stroke-width="1" opacity="0.4"/>
+  <text x="400" y="22" font-family="Inter,-apple-system,sans-serif" font-size="11" font-weight="400" fill="#a1a1a6" letter-spacing="1" text-anchor="middle">The internet should make geography irrelevant.</text>
+  <text x="400" y="40" font-family="Inter,-apple-system,sans-serif" font-size="11" font-weight="400" fill="rgba(161,161,166,0.4)" letter-spacing="0.5" text-anchor="middle">Still learning. Still building.</text>
+</svg>
 
 </div>
