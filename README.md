@@ -1,18 +1,13 @@
 <div align="center">
 
-<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="220" fill="#050505"/>
-  <!-- Subtle grid -->
-  <line x1="0" y1="110" x2="800" y2="110" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
-  <line x1="400" y1="0" x2="400" y2="220" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
-  <!-- Orange accent mark -->
-  <rect x="276" y="72" width="3" height="76" rx="1.5" fill="#FF6B00"/>
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#050505"/>
   <!-- Name -->
-  <text x="293" y="118" font-family="Inter,-apple-system,BlinkMacSystemFont,sans-serif" font-size="46" font-weight="700" fill="#FAFAFA" letter-spacing="-1.5">Pedro Cecilio</text>
+  <text x="400" y="92" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="40" font-weight="600" fill="#FAFAFA" letter-spacing="-1.2" text-anchor="middle">Pedro Cecilio</text>
+  <!-- Divider dot -->
+  <circle cx="400" cy="114" r="2" fill="#FF6B00"/>
   <!-- Tagline -->
-  <text x="294" y="144" font-family="Inter,-apple-system,BlinkMacSystemFont,sans-serif" font-size="13" font-weight="400" fill="#a1a1a6" letter-spacing="0.4">Builder · São Paulo ↔ San Francisco</text>
-  <!-- Bottom border -->
-  <line x1="0" y1="219" x2="800" y2="219" stroke="#FF6B00" stroke-width="1" opacity="0.4"/>
+  <text x="400" y="138" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="#a1a1a6" letter-spacing="0.2" text-anchor="middle">Building for builders. São Paulo ↔ San Francisco.</text>
 </svg>
 
 <br/>
