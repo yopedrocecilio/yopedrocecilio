@@ -2,20 +2,31 @@
 
 <br/>
 
-<svg width="600" height="140" viewBox="0 0 600 140" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="180" viewBox="0 0 600 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#FF6B00" stop-opacity="0.07"/>
-      <stop offset="100%" stop-color="#FF6B00" stop-opacity="0"/>
+    <radialGradient id="orb" cx="50%" cy="40%" r="45%">
+      <stop offset="0%" stop-color="#FF6B00" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#050505" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="fade" cx="50%" cy="50%" r="50%">
+      <stop offset="60%" stop-color="#050505" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#050505" stop-opacity="1"/>
     </radialGradient>
   </defs>
-  <rect width="600" height="140" fill="#050505"/>
-  <rect width="600" height="140" fill="url(#glow)"/>
-  <line x1="0" y1="0" x2="600" y2="0" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-  <text x="300" y="62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="34" font-weight="600" fill="#FAFAFA" letter-spacing="-1" text-anchor="middle">Pedro Cecilio</text>
-  <text x="300" y="92" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12.5" font-weight="400" fill="#3d3d42" letter-spacing="0.2" text-anchor="middle">Building for builders — São Paulo · San Francisco</text>
-  <line x1="0" y1="139" x2="600" y2="139" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-  <circle cx="300" cy="115" r="1.5" fill="#FF6B00" opacity="0.6"/>
+  <rect width="600" height="180" fill="#050505"/>
+  <rect width="600" height="180" fill="url(#orb)"/>
+  <g fill="rgba(255,255,255,0.07)">
+    <circle cx="60" cy="40" r="1"/><circle cx="120" cy="40" r="1"/><circle cx="180" cy="40" r="1"/>
+    <circle cx="420" cy="40" r="1"/><circle cx="480" cy="40" r="1"/><circle cx="540" cy="40" r="1"/>
+    <circle cx="60" cy="80" r="1"/><circle cx="120" cy="80" r="1"/>
+    <circle cx="480" cy="80" r="1"/><circle cx="540" cy="80" r="1"/>
+    <circle cx="60" cy="140" r="1"/><circle cx="120" cy="140" r="1"/><circle cx="180" cy="140" r="1"/>
+    <circle cx="420" cy="140" r="1"/><circle cx="480" cy="140" r="1"/><circle cx="540" cy="140" r="1"/>
+  </g>
+  <rect width="600" height="180" fill="url(#fade)"/>
+  <text x="300" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="38" font-weight="700" fill="#FAFAFA" letter-spacing="-1.5" text-anchor="middle">Pedro Cecilio</text>
+  <text x="300" y="112" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="400" fill="#FF6B00" letter-spacing="3" text-anchor="middle" opacity="0.8">BUILDER · SÃO PAULO · SAN FRANCISCO</text>
+  <line x1="220" y1="130" x2="380" y2="130" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
 </svg>
 
 <br/>
