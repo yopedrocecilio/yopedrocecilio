@@ -23,7 +23,7 @@ i'm pedro. brazilian. 27. currently in san francisco to build things for builder
 
 i spend most of my time thinking about why the world's most talented people are still invisible — and then building the infrastructure to fix that. on the way, i accidentally became obsessed with community, AI, vibe coding, and the question of what "work" even means when machines can do most of it.
 
-i don't have all the answers. but i have 3,000+ builders who trust me, strong opinions held loosely, and an unreasonable amount of conviction that this matters.
+i don't have all the answers. but i have 1,000+ builders who build with me and an unreasonable amount of conviction, hell yeahh!
 
 if you're reading this you're probably a builder, a founder, or a dreamer just like me. either way — welcome, grab a seat.
 
@@ -33,7 +33,7 @@ if you're reading this you're probably a builder, a founder, or a dreamer just l
 
 🌎 **[BeGlobal](https://beglobal.work)** — a community of the world's best builders.
 
-3,000+ startup-proven engineers, mostly from Latin America. we place elite talent into early-stage teams in 48h — the long game was always the community itself. a living network of people who share the same values and share their life and work across the world.
+1000+ startup-proven engineers, mostly from Latin America. we place elite talent into early-stage teams in 48h — the long game was always the community itself. a living network of people who share the same values and share their life and work across the world.
 **the community is why it exists.**
 
 ⚡ **[UNDV](https://undv.com)** — where AI builders become visible. `pre-launch`
@@ -104,7 +104,7 @@ naval says "retirement is when you stop sacrificing today for an imaginary tomor
 ### stack
 
 ```
-build:     cursor · claude code · v0 · lovable (think a _vibe coder pro max_ powered by 3,000 top elite trusted engineers)
+build:     cursor · claude code · v0 · lovable (think a _vibe coder pro max_ powered by 1000+ top elite trusted engineers)
 ship:      next.js · hono · postgres · supabase · turborepo
 deploy:    vercel · fly.io · cloudflare
 think:     claude · perplexity · pen & paper
