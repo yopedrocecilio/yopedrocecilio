@@ -25,9 +25,6 @@
   </g>
   <rect width="600" height="180" fill="url(#fade)"/>
   <text x="300" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="38" font-weight="700" fill="#FAFAFA" letter-spacing="-1.5" text-anchor="middle">Pedro Cecilio</text>
-  <text x="300" y="112" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="400" fill="#FF6B00" letter-spacing="3" text-anchor="middle" opacity="0.8">BUILDER · SÃO PAULO · SAN FRANCISCO</text>
-  <line x1="220" y1="130" x2="380" y2="130" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-</svg>
 
 <br/>
 
