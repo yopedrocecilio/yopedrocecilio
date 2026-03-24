@@ -2,126 +2,207 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1500&color=FC5203&center=true&vCenter=true&repeat=true&width=620&height=40&lines=the+world's+best+builders+are+still+invisible.;i'm+building+the+fix.;also+i+make+great+coffee.)](https://beglobal.work)
+<br>
+
+# pedro cecilio
+
+<samp>founder · builder · SP → SF</samp>
 
 <br>
 
-**Pedro Cecilio** &nbsp;·&nbsp; founder &nbsp;·&nbsp; community builder &nbsp;·&nbsp; SP → SF
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=2000&color=FC5203&center=true&vCenter=true&repeat=true&width=480&height=24&lines=the+world's+best+builders+are+still+invisible.;i'm+building+the+fix.;talent+is+everywhere.+access+is+not.;proof+of+work+%3E+proof+of+credentials.;also+i+make+great+coffee.)](https://undv.com)
 
-<a href="https://beglobal.work"><img src="https://img.shields.io/badge/BeGlobal-FC5203?style=for-the-badge&logoColor=white" /></a>
-<a href="https://undv.com"><img src="https://img.shields.io/badge/UNDV-000000?style=for-the-badge&logoColor=white" /></a>
-<a href="https://x.com/yopedrocecilio"><img src="https://img.shields.io/badge/𝕏-000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://linkedin.com/in/pedrocecilio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br>
+
+<samp>
+<a href="https://undv.com">undv</a> ·
+<a href="https://beglobal.work">beglobal</a> ·
+<a href="https://x.com/yopedrocecilio">x</a> ·
+<a href="https://linkedin.com/in/pedrocecilio">linkedin</a>
+</samp>
 
 </div>
 
 <br>
 
+---
+
+<br>
+
 ### `> whoami`
 
-i'm pedro. brazilian. 27. currently in san francisco to build things for builders.
+i'm pedro. brazilian. 27. currently in san francisco building things for builders.
 
-i spend most of my time thinking about why the world's most talented people are still invisible — and then building the infrastructure to fix that. on the way, i accidentally became obsessed with community, AI, vibe coding, and the question of what "work" even means when machines can do most of it.
+i spend most of my time thinking about why the world's most talented people are still invisible — and then building the infrastructure to fix that. along the way, i became obsessed with community, AI, vibe coding, and the question of what "work" even means when machines can do most of it.
 
-i don't have all the answers. but i have 1,000+ builders who build with me and an unreasonable amount of conviction, hell yeahh!
+i don't have all the answers. but i have 1,000+ builders who build with me and an unreasonable amount of conviction.
 
-if you're reading this you're probably a builder, a founder, or a dreamer just like me. either way — welcome, grab a seat.
+if you're reading this — you're probably a builder, a founder, or a dreamer. welcome, grab a seat.
+
+<br>
 
 ---
+
+<br>
 
 ### what i'm building
 
-🌎 **[BeGlobal](https://beglobal.work)** — a community of the world's best builders.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-1000+ startup-proven engineers, mostly from Latin America. we place elite talent into early-stage teams in 48h — the long game was always the community itself. a living network of people who share the same values and share their life and work across the world.
-**the community is why it exists.**
+**[UNDV](https://undv.com)** &nbsp; <sup>`pre-launch`</sup>
 
-⚡ **[UNDV](https://undv.com)** — where AI builders become visible. `pre-launch`
+where AI builders become visible.
 
-identity, discovery, connection, monetization — for the new class shipping with AI building tools like lovable, replit, v0, claude, cursor. your work becomes your reputation, it is the new CV. creation becomes currency. not a marketplace. not a job board. something new.
+identity, discovery, connection, monetization — for the new class shipping with lovable, replit, v0, claude, cursor.
+
+your work becomes your reputation. creation becomes currency.
+
+not a marketplace. not a job board. something new.
+
+</td>
+<td width="50%" valign="top">
+
+**[BeGlobal](https://beglobal.work)**
+
+a community of the world's best builders.
+
+1,000+ startup-proven engineers, mostly from latin america. we place elite talent into early-stage teams in 48h.
+
+the long game was always the community itself — a living network of people who share the same values across the world.
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
+
+<br>
 
 ### things i believe
 
 > talent is everywhere. access is not. that's a design problem, not a law of nature.
 
-- in a post-AGI world, the scarce thing isn't skill: it's taste, judgment, and knowing *what* to build
+- in a post-AGI world, the scarce thing isn't skill — it's taste, judgment, and knowing *what* to build
 - community compounds in ways software alone never will
 - the best people i've met were in places the market wasn't looking
 - proof of work > proof of credentials. every single time
 - builders are becoming a social class. the infrastructure hasn't caught up yet
 - the question isn't "will AI replace us?" — it's "what kind of person becomes *more* powerful when AI does everything else?"
 
+<br>
+
 ---
+
+<br>
 
 ### on builders
 
-i've spent years talking to thousands of engineers across latin america. the pattern is clear: the best ones don't have the best profiles on LinkedIn or flashy logos in their CVs, but they have a kind of hunger you can't fake.
+i've spent years talking to thousands of engineers across latin america. the pattern is clear: the best ones don't have the best profiles on LinkedIn or flashy logos in their CVs — they have a kind of hunger you can't fake.
 
 the world is sleeping on these people. not for long.
 
+<br>
+
 ---
+
+<br>
 
 ### thoughts i keep coming back to
 
 <details>
-<summary><i>"the meaning of life is just to be alive. it is so plain and so obvious and so simple. and yet, everybody rushes around in a great panic as if it were necessary to achieve something beyond themselves."</i> — alan watts</summary>
+<summary>&ensp;<code>01</code>&ensp; alan watts — on being alive</summary>
 <br>
-i think about this a lot. especially as a founder. it's easy to let ambition eat your life. the best work i've done came from seasons where i was fully present, building because the work felt alive.
+
+> *"the meaning of life is just to be alive. it is so plain and so obvious and so simple. and yet, everybody rushes around in a great panic as if it were necessary to achieve something beyond themselves."*
+
+i think about this a lot. especially as a founder. it's easy to let ambition eat your life. the best work i've done came from seasons where i was fully present — building because the work felt alive.
+
+<br>
 </details>
 
 <details>
-<summary><i>"the people who succeed are irrationally passionate about something."</i> — naval</summary>
+<summary>&ensp;<code>02</code>&ensp; naval — on irrational passion</summary>
 <br>
-naval got a lot of things right, but this is the one that shaped me most. rationality is overrated as a startup virtue. the founders and builders i admire most aren't calculated — they're obsessed. they picked something that bothered them enough to spend years on it. for me that's global talent and access, **UND**ndisco**V**ered talent in business, arts, sports - I want and will bet in overseen people, that is my mission in life.
+
+> *"the people who succeed are irrationally passionate about something."*
+
+naval got a lot of things right, but this is the one that shaped me most. rationality is overrated as a startup virtue. the founders and builders i admire most aren't calculated — they're obsessed. they picked something that bothered them enough to spend years on it. for me that's global talent and access — **UND**isco**V**ered talent in business, arts, sports. i want to bet on overlooked people. that is my mission.
+
+<br>
 </details>
 
 <details>
-<summary><i>"a great company is a conspiracy to change the world."</i> — peter thiel</summary>
+<summary>&ensp;<code>03</code>&ensp; thiel — on conspiracies</summary>
 <br>
-i don't agree with thiel on everything but this line is burned into my brain. the best companies don't feel like businesses. they feel like movements with a point of view. BeGlobal started as a recruiting company but became a community because the people inside it cared about something beyond the transaction. that's the conspiracy. people who choose the same mission independently.
+
+> *"a great company is a conspiracy to change the world."*
+
+i don't agree with thiel on everything but this line is burned into my brain. the best companies don't feel like businesses — they feel like movements with a point of view. BeGlobal started as a recruiting company but became a community because the people inside it cared about something beyond the transaction. that's the conspiracy. people who choose the same mission independently.
+
+<br>
 </details>
 
 <details>
-<summary>on freedom, work, and the point of it all</summary>
+<summary>&ensp;<code>04</code>&ensp; on freedom, work, and the point of it all</summary>
 <br>
-naval says "retirement is when you stop sacrificing today for an imaginary tomorrow." i think about that constantly. i don't want to build a company just to exit. i want to build something i'd still choose on a random tuesday. something that makes my life bigger, not smaller. freedom isn't the absence of work. it's doing work that you'd do even if you didn't have to. that's what i'm optimizing for.
+
+> *"retirement is when you stop sacrificing today for an imaginary tomorrow."* — naval
+
+i don't want to build a company just to exit. i want to build something i'd still choose on a random tuesday. something that makes my life bigger, not smaller.
+
+freedom isn't the absence of work. it's doing work you'd do even if you didn't have to.
+
+<br>
 </details>
+
+<br>
 
 ---
+
+<br>
 
 ### personal
 
-- 🇧🇷 from a small town in Brazil. grew up watching the world from the outside, wondering why geography got to decide so much.
-- ☕ coffee please
-- 🎵 builds better with music. the playlist is MPB for chill vibes or lo-fi for deep work
-- 🏃 running and time in nature are therapy
-- 🌎 traveling and meeting people allover: talent is distributed, opportunity isnt (opss, naval once again)
+`>` from a small town in brazil. grew up watching the world from the outside, wondering why geography got to decide so much.
+`>` coffee is non-negotiable.
+`>` builds better with music — MPB for chill, lo-fi for deep work.
+`>` running and time in nature are therapy.
+`>` traveling and meeting people everywhere. talent is distributed, opportunity isn't.
+
+<br>
 
 ---
+
+<br>
 
 ### stack
 
 ```
-build:     cursor · claude code · v0 · lovable (think a _vibe coder pro max_ powered by 1000+ top elite trusted engineers)
-ship:      next.js · hono · postgres · supabase · turborepo
-deploy:    vercel · fly.io · cloudflare
-think:     claude · perplexity · pen & paper
-manage:    linear · notion · github
-automate:  n8n · python · playwright
-energy:    coffee · sun · the ocean · heavy lifting
+build       cursor · claude code · v0 · lovable
+            (think vibe coder pro max backed by 1000+ elite engineers)
+
+ship        next.js · hono · postgres · supabase · turborepo
+deploy      vercel · fly.io · cloudflare
+think       claude · perplexity · pen & paper
+manage      linear · notion · github
+automate    n8n · python · playwright
+energy      coffee · sun · the ocean · heavy lifting
 ```
-
----
-
-<div align="center">
-
-*building the infrastructure so the world's best builders*
-*can't be ignored anymore.*
 
 <br>
 
-<sub>if you're a builder and you feel invisible — <a href="https://beglobal.work">come find us</a>.</sub>
+---
 
-</div>
+<br>
+
+<p align="center">
+  <samp>building the infrastructure so the world's best builders can't be ignored anymore.</samp>
+</p>
+
+<p align="center">
+  <sub>if you're a builder and you feel invisible — <a href="https://beglobal.work">come find us</a>.</sub>
+</p>
