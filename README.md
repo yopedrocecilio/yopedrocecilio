@@ -1,4 +1,4 @@
-v<!-- README.md — yopedrocecilio/yopedrocecilio -->
+<!-- README.md — yopedrocecilio/yopedrocecilio -->
 
 <div align="center">
 
