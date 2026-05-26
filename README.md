@@ -15,7 +15,7 @@
 <br>
 
 <samp>
-<a href="https://undv.com">undv</a> ·
+<a href="https://undv.ai">undv</a> ·
 <a href="https://beglobal.work">beglobal</a> ·
 <a href="https://x.com/yopedrocecilio">x</a> ·
 <a href="https://linkedin.com/in/pedrocecilio">linkedin</a>
